@@ -1,0 +1,22 @@
+# Maven / Java
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+/.idea/
+/*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# Maven Wrapper (garder si vous voulez le wrapper)
+!.mvn/wrapper/maven-wrapper.jar
