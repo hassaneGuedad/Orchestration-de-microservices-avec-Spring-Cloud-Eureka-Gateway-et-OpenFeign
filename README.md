@@ -92,11 +92,21 @@ Ressources et lectures conseillées
 - Spring Cloud Gateway : https://spring.io/projects/spring-cloud-gateway
 - Spring Cloud Config : https://spring.io/projects/spring-cloud-config
 
-Licence
+Screenshots
 -------
-Contenu pédagogique fourni tel quel pour usage pédagogique et expérimental.
+<img width="955" height="505" alt="cap1" src="https://github.com/user-attachments/assets/990666a7-7c6b-4409-b1c9-38c8439cd80e" />
+
+<img width="951" height="509" alt="CAP22" src="https://github.com/user-attachments/assets/bb9a979c-c1d6-4a9d-b862-5805c0962bdb" />
+
+<img width="959" height="508" alt="cap33" src="https://github.com/user-attachments/assets/0f8fd409-5ac6-44b1-968a-041232ec07c3" />
+
+<img width="960" height="509" alt="CAP5" src="https://github.com/user-attachments/assets/38b88827-bf4c-4399-bfd7-46b2b1e5f7c3" />
+
+<img width="959" height="506" alt="CAP6" src="https://github.com/user-attachments/assets/1ae4525e-8082-4eee-8b72-7695b08a16cc" />
+
+
+<img width="958" height="508" alt="CAP7" src="https://github.com/user-attachments/assets/442b534b-ecde-4bed-8fb7-df944df7e201" />
 
 ---
 
-(Pour que je l'ajoute également comme `README.md` à la racine du dépôt, dites "Ajoute".)
 
